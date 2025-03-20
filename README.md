@@ -24,7 +24,7 @@ This repository contains my first attempt at building a Machine Learning predict
 
 ## Future Improvements
 - Optimize model performance
-- Try different feature engineering techniques
+- Add in more predictors
 - Experiment with more advanced ML models
 
 Feel free to contribute or suggest improvements! 🚀
