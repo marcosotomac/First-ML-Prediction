@@ -1,6 +1,4 @@
-Aquí tienes una descripción para tu repositorio de GitHub:
 
----
 
 # ML Prediction - First Attempt
 
